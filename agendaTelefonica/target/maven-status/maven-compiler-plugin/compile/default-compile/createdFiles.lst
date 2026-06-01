@@ -1,0 +1,3 @@
+com\example\agendaTelefonica\AgendaTelefonicaApplication.class
+com\example\agendaTelefonica\model\Pessoa.class
+com\example\agendaTelefonica\controller\AgendaController.class
